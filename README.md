@@ -1,6 +1,7 @@
 # the-chord-changer
 
-FIXME
+This app is meant to be used as a way to practice chord changes on the piano.  
+It is currently pinned at Kenny Beats' discord and can be accessed [here](the-chord-changer.herokuapp.com).
 
 ## Prerequisites
 
